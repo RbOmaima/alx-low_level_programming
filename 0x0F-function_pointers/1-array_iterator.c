@@ -1,4 +1,5 @@
 #include "function_pointer.h"
+#include <stdio.h>
 
 /**
  * array_iterator - maps an array through a func pointer
